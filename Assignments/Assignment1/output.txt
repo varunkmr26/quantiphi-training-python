@@ -1,0 +1,15 @@
+a 1
+am 2
+and 2
+engineer 2
+ever 2
+hell 1
+i 1
+is 1
+my 1
+name 2
+platform 1
+so 2
+varun 1
+what 1
+yeah 2

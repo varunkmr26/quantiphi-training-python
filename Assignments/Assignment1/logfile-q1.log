@@ -1,0 +1,3 @@
+INFO:root:This is a valid password
+WARNING:root:This string does not have capital letters
+WARNING:root:This is not a valid password
